@@ -27,8 +27,9 @@ body {
 }
 
 .container {
+  justify-content: center;
   width: 100%;
-  max-width: 800px;
+  max-width: 1200px;
   background-color: var(--card-bg);
   border-radius: 20px;
   padding: 2.5rem;
@@ -59,6 +60,8 @@ h1 {
   font-size: 1.1rem;
   font-weight: 500;
 }
+
+
 
 .input-section {
   display: flex;
